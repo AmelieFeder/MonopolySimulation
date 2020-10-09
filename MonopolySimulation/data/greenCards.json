@@ -1,0 +1,82 @@
+﻿[
+{
+  "id": "bc0a7db6-116c-4e2d-9fdb-05cea3f2be4e",
+  "action": 0,
+  "parameter": null
+},
+{
+  "id": "88028bf5-d600-494e-b8ca-edf7264587a9",
+  "action": 0,
+  "parameter": null
+},
+  {
+    "id": "743df6de-0b00-45f7-901c-652a2b020a8f",
+    "action": 1,
+    "parameter": "Jail"
+  },
+  {
+    "id": "4044943c-371e-47c9-99e0-9ac22d0741c6",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "98028bf5-d600-494e-b8ca-edf7264587a9",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "c4971405-4abe-4b11-afd0-fdbcf831b396",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "24d484ad-fa05-4cbd-9184-d9259502eab1",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "5723b850-b848-4b7d-88ae-78375f71c5c0",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "0db652c6-8f24-45d5-8d51-d220e071494a",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "04bde3e7-8d07-4e52-be04-454a64c867b5",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "ec8251cc-6881-49ae-8e0e-b7798e7f61ca",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "dcb4e7a6-8486-4bec-a09a-021e27b9efa5",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "a95d0161-8df3-4376-83a4-cd25d07ef6b8",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "ca95e830-d292-4c93-ac9c-901f705cc2db",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "463e9b42-0107-464d-b177-c54e99c061e5",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "d4ef6a5c-bfdb-4708-af4f-b9f4743a6a10",
+    "action": 0,
+    "parameter": null
+  }
+]

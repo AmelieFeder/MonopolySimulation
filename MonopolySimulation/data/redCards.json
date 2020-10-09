@@ -1,0 +1,82 @@
+﻿[
+  {
+    "id": "42668482-a44d-45f0-b79c-d2692cc4c6f1",
+    "action": 1,
+    "parameter": "Jail"
+  },
+  {
+    "id": "93bb4b1a-3d9a-45f9-b7d6-f96aa49c83d8",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "41187d73-f887-4f68-885c-385aec22efdf",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "d5ad6b88-851a-47f5-a140-f7300f5cfd64",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "e5c9dd5c-9f00-4202-8682-3e93a600a310",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "acf4e32f-0ccd-476f-b37e-0590939282ff",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "5a157f77-9904-4ba8-9528-99393cc05866",
+    "action": 2,
+    "parameter": "-3"
+  },
+  {
+    "id": "2a50b66b-2c8f-43e2-ba75-c31a740516d6",
+    "action": 0,
+    "parameter": null
+  },
+  {
+    "id": "78ad4606-a4e9-4eb2-8963-9ad8a41e4d3c",
+    "action": 1,
+    "parameter": "TheX-Men#1"
+  },
+  {
+    "id": "0ab277c8-ab0f-4c94-834b-db9a8cd33c7f",
+    "action": 4,
+    "parameter": "vehicle"
+  },
+  {
+    "id": "3f64913e-6061-48c5-aa84-8f858c71004e",
+    "action": 4,
+    "parameter": "vehicle"
+  },
+  {
+    "id": "a93c2e85-ab76-426c-b272-0c4a6f693732",
+    "action": 1,
+    "parameter": "Los"
+  },
+  {
+    "id": "752b1ced-d065-4f41-88e1-ef0b26140d40",
+    "action": 1,
+    "parameter": "Goblin Glider"
+  },
+  {
+    "id": "e48bccef-daa4-4cce-a67e-da49e8efdaee",
+    "action": 1,
+    "parameter": "MightyThor#1"
+  },
+  {
+    "id": "8d1e5f91-3cbc-47e2-b929-3ae00a68662a",
+    "action": 1,
+    "parameter": "MarvelComics#1"
+  },
+  {
+    "id": "8d1e5f91-3cbc-47e2-b929-3ae00a68662a",
+    "action": 3,
+    "parameter": "Superpower"
+  }
+]

@@ -1,0 +1,162 @@
+﻿[{
+  "Name" : "Los",
+  "PositionOnBoard" : 0,
+  "Type": 7
+  },
+  { "Name" : "TheReturnOfTheAntMan",
+  "PositionOnBoard" : 1,
+  "Type": 0
+},
+  { "Name" : "Smaaash",
+  "PositionOnBoard" : 2,
+  "Type": 5
+},
+  { "Name" : "GhostRider",
+  "PositionOnBoard" : 3,
+  "Type": 0
+},
+  { "Name" : "Auktionsgebühr",
+  "PositionOnBoard" : 4,
+  "Type": 7
+},
+  { "Name" : "Goblin Glider",
+  "PositionOnBoard" : 5,
+  "Type": 1
+},
+  { "Name" : "LukeCageHeroForHire",
+    "PositionOnBoard" : 6,
+    "Type": 0
+  },
+  { "Name" : "Thooom",
+    "PositionOnBoard" : 7,
+    "Type": 4
+  },
+  { "Name" : "Wolverine",
+    "PositionOnBoard" : 8,
+    "Type": 0
+  },
+  { "Name" : "HulkAndWolverine",
+    "PositionOnBoard" : 9,
+    "Type": 0
+  },
+  { "Name" : "Jail",
+    "PositionOnBoard" : 10,
+    "Type": 3
+  },
+  { "Name" : "MightyThor#1",
+    "PositionOnBoard" : 11,
+    "Type":0
+  },
+  { "Name" : "Pyrokinesis",
+    "PositionOnBoard" : 12,
+    "Type": 2
+  },
+  { "Name" : "CaptainMarvel",
+    "PositionOnBoard" : 13,
+    "Type": 0
+  },
+  { "Name" : "GiantSizeX-Men",
+    "PositionOnBoard" : 14,
+    "Type": 0
+  },
+  { "Name" : "GhostRidersBike",
+    "PositionOnBoard" : 15,
+    "Type": 1
+  },
+  { "Name" : "DoctorStrangeTheSandsOfDeath",
+    "PositionOnBoard" : 16,
+    "Type": 0
+  },
+  { "Name" : "Smaaash",
+    "PositionOnBoard" : 17,
+    "Type": 5
+  },
+  { "Name" : "TheSilverSurfer",
+    "PositionOnBoard" : 18,
+    "Type": 0
+  },
+  { "Name" : "HereComesDareDevil",
+    "PositionOnBoard" : 19,
+    "Type": 0
+  },
+  { "Name" : "FreiParken",
+    "PositionOnBoard" : 20,
+    "Type": 7
+  },
+  { "Name" : "TheInvincibleIronman",
+    "PositionOnBoard" : 21,
+    "Type": 0
+  },
+  { "Name" : "Thooom",
+    "PositionOnBoard" : 22,
+    "Type": 4
+  },
+  { "Name" : "TheAvengers",
+    "PositionOnBoard" : 23,
+    "Type": 0
+  },
+  { "Name" : "TheX-Men#1",
+    "PositionOnBoard" : 24,
+    "Type": 0
+  },
+  { "Name" : "Fantasticar",
+    "PositionOnBoard" : 25,
+    "Type": 1
+  },
+  { "Name" : "TalesOfSuspenseIronman",
+    "PositionOnBoard" : 26,
+    "Type": 0
+  },
+  { "Name" : "TheAmazingSpiderman",
+    "PositionOnBoard" : 27,
+    "Type": 0
+  },
+  { "Name" : "ThePowerCosmic",
+    "PositionOnBoard" : 28,
+    "Type": 2
+  },
+  { "Name" : "JourneyIntoMystery",
+    "PositionOnBoard" : 29,
+    "Type": 0
+  },
+  { "Name" : "GehenSieInDasGefängnis",
+    "PositionOnBoard" : 30,
+    "Type": 6
+  },
+  { "Name" : "TheIncredibleHulk",
+    "PositionOnBoard" : 31,
+    "Type": 0
+  },
+  { "Name" : "FantasticFour",
+    "PositionOnBoard" : 32,
+    "Type": 0
+  },
+  { "Name" : "Smaaash",
+    "PositionOnBoard" : 33,
+    "Type": 5
+  },
+  { "Name" : "CaptainAmerica",
+    "PositionOnBoard" : 34,
+    "Type": 0
+  },
+  { "Name" : "Quinjet",
+    "PositionOnBoard" : 35,
+    "Type": 1
+  },
+  { "Name" : "Thooom",
+    "PositionOnBoard" : 36,
+    "Type": 4
+  },
+  { "Name" : "AmazingFantasySpiderman",
+    "PositionOnBoard" : 37,
+    "Type": 0
+  },
+  { "Name" : "Mitgliedsbeitrag",
+    "PositionOnBoard" : 38,
+    "Type": 7
+  },
+  { "Name" : "MarvelComics#1",
+    "PositionOnBoard" : 39,
+    "Type": 0
+  }
+]
